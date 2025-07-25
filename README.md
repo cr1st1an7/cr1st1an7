@@ -1,16 +1,16 @@
-<h1 align="center">Hola 👋, soy Cristian</h1>
-<h3 align="center">Apasionado por la seguridad informática</h3>
+<h1 align="center">Hi 👋, I'm Cristian</h1>
+<h3 align="center">Passionate about cybersecurity</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Hackeo ético y conceptos de seguridad ofensiva**
+- 🌱 I’m currently learning **Ethical hacking and offensive security concepts**
 
-- 📫 Cómo comunicarse conmigo: **cr1st1an7@proton.me**
+- 📫 How to reach me: **cr1st1an7@proton.me**
 
-<h3 align="center">Conéctate conmigo:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 
 </p>
 
-<h3 align="center">Idiomas y herramientas:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
