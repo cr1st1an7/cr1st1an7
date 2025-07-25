@@ -25,21 +25,11 @@
          alt="PHP" width="30" height="30" style="margin: 0 8px;" />
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://en.m.wikiversity.org/wiki/File:Wireshark_icon.svg"
+    <img src="https://e7.pngegg.com/pngimages/708/366/png-clipart-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-computer-network-text-thumbnail.png"
          alt="Wireshark" width="30" height="30" style="margin: 0 8px;" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://icons8.com/icon/PW0ChfedZvTh/metasploit"
          alt="Metasploit" width="30" height="30" style="margin: 0 8px;" />
-  </a>
-  <!-- Reemplaza las URLs siguientes cuando tengas los íconos correctos -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="URL-DE-ICONO-Fluccion" alt="Fluxion" width="30" height="30" style="margin: 0 8px;" />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="URL-DE-ICONO-Villain" alt="Villain" width="30" height="30" style="margin: 0 8px;" />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="URL-DE-ICONO-JohnTheRipper" alt="John the Ripper" width="30" height="30" style="margin: 0 8px;" />
   </a>
 </p>
