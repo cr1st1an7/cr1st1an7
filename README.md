@@ -29,7 +29,7 @@
          alt="Wireshark" width="30" height="30" style="margin: 0 8px;" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Logo_of_Metasploit.svg/960px-Logo_of_Metasploit.svg.png"
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17df60fe-5944-44ad-b73a-531294eea4a0.png?auto=format%2Ccompress&fit=max&w=256&q=75&ch=Width%2CDPR"
          alt="Metasploit" width="30" height="30" style="margin: 0 8px;" />
   </a>
 </p>
