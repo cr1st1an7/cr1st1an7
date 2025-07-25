@@ -25,11 +25,11 @@
          alt="PHP" width="30" height="30" style="margin: 0 8px;" />
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/708/366/png-clipart-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-computer-network-text-thumbnail.png"
+    <img src="[https://e7.pngegg.com/pngimages/708/366/png-clipart-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-computer-network-text-thumbnail.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMu8ushpqeiuRhmg6Wl6YFWDNo5lXciO9WLw&s)"
          alt="Wireshark" width="30" height="30" style="margin: 0 8px;" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://icons8.com/icon/PW0ChfedZvTh/metasploit"
+    <img src="[https://icons8.com/icon/PW0ChfedZvTh/metasploit](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/metasploit-h33wivgvlvgtk3wmoejxq.png/metasploit-rkuireddk3p5vdgf5mil5.png?_a=DATAg1AAZAA0)"
          alt="Metasploit" width="30" height="30" style="margin: 0 8px;" />
   </a>
 </p>
