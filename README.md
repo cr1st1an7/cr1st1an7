@@ -25,7 +25,7 @@
          alt="PHP" width="30" height="30" style="margin: 0 8px;" />
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tKplp3ec1eK-4EQ0lMwRSogHy4Gx-2G5IQ&s"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"
          alt="Wireshark" width="30" height="30" style="margin: 0 8px;" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
